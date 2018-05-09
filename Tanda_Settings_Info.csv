@@ -1,4 +1,4 @@
-setting, default, data_type, impact
+setting,default,data_type,impact
 login_work_mins_increment,15,Numeric,Explicit
 logout_work_mins_increment,15,Numeric,Explicit
 login_work_mins_increment_aggressive,true,Boolean,Explicit
